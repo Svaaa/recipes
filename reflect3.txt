@@ -1,0 +1,4 @@
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+We use forks when we want to get repository of other people
+We use clone to trasfer commit from GitHub to local machine.
+Branches is useful for creating different and test version of project
